@@ -1,4 +1,4 @@
-// Mersimoy Gurmu
+
 // Assignment 4-Binary Search Tree
 // CSCS2421-Data Structure and Program Design
 
